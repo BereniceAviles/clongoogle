@@ -5,7 +5,8 @@ Poniendo en practica el conocimiento y abilidades  aprendidas en el bootcamp de 
 ## 1. Intro
 EL proyecto fue creado con **HTML Y CSS**. Se trata de la inrerfaz Google
 * Puedes visitar el sitio de el siguiente enlace 
-![Clon de google](https://www.linuxadictos.com/wp-content/uploads/Google-en-Firefox.png)
+![Clon de google](![google clon](https://github.com/BereniceAviles/clongoogle/assets/148162665/fa0a4a6f-a9b3-49fd-bac0-4a6d147b2245)
+)
 
 ## Contenido del proyecto 
 1. Header
