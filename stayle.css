@@ -107,17 +107,20 @@ main{
     background-size: contain;
     padding-right: 8%;
 }
+.main-bottons div{
+    display:inline-block;
+}
 .main-bottons button{
     border: none;
     height: 36px;
     background-color: #f8f9fa;
     font-size: 14px;
     color: #3c4043;
-    border-radius: 2px solid #f8f9fa;
+    border-radius: 1px solid #f8f9fa;
     margin-right: 10px;
 }
 .main-bottons button:hover{
-    box-shadow: 0 1px 9px rgba(0,0,0,.1);
+    box-shadow: 0 1px 3px rgba(0,0,0,.1);
     border: 1px solid #dadce0;
     color: #202124; 
     cursor: pointer;
@@ -132,10 +135,10 @@ footer{
     grid-template-columns: 1fr 1fr;
     align-items: center;
     border-top: 1px solid #e4e4e4;
-    bottom: 0%;
+    bottom: 2%;
+    padding: 10px;
 }
 .footer-location{
-    
     color: #70757a;
 }
 .footer-left{
@@ -152,5 +155,6 @@ footer ul{
 }
 footer ul li a{
     color: #70757a;
+    margin: 10px;
 
 }
